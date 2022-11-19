@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cups_tornado.iml" filepath="$PROJECT_DIR$/.idea/cups_tornado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../document_reviewer-master/.idea/document_reviewer.iml" filepath="$PROJECT_DIR$/../document_reviewer-master/.idea/document_reviewer.iml" />
+    </modules>
+  </component>
+</project>
